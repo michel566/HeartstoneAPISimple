@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tv_tituloPrincipal">Esse app tem como função simples em exibir o que for solicitado do Hearthstone API</string>
+    <string name="tv_subtitulo1">Lista de nome de todas as cartas:</string>
+    <string name="tv_subtitulo2">Valor da carta:</string>
+    <string name="tv_cardName">Nome: %s</string>
+    <string name="tv_cardClass">Classe: %s</string>
+    <string name="tv_cardRarity">Raridade: %s</string>
+    <string name="tv_cardSet">Conjunto: %s</string>
+</resources>

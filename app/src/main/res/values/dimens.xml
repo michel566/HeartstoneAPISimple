@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo">24sp</dimen>
+    <dimen name="subtitulo">20sp</dimen>
+    <dimen name="texto">14sp</dimen>
+
+    <dimen name="default_width">300dp</dimen>
+    <dimen name="default_height">200dp</dimen>
+
+</resources>
